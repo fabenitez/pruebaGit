@@ -1,0 +1,63 @@
+body{
+	
+}
+#principal{
+	width: 850px;
+	border: 1px solid #000000;
+	margin: 0 auto;
+	border: 1px solid #696;
+
+text-align: center; 
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+-webkit-box-shadow: #666 5px 5px 20px;
+-moz-box-shadow: #666 5px 5px 20px;
+box-shadow: #666 5px 5px 20px;
+background: #EEFF99;
+background: -webkit-gradient(linear, 0 0, 0 bottom, from(#EEFF99), to(#66EE33));
+background: -webkit-linear-gradient(#EEFF99, #66EE33);
+background: -moz-linear-gradient(#EEFF99, #66EE33);
+background: -ms-linear-gradient(#EEFF99, #66EE33);
+background: -o-linear-gradient(#EEFF99, #66EE33);
+background: linear-gradient(#EEFF99, #66EE33);
+-pie-background: linear-gradient(#EEFF99, #66EE33);
+behavior: url(/pie/PIE.htc);
+}
+#cabecera{
+	height: 100px;
+	border: 1px solid #666;
+	margin: 10px;	
+}
+#menu{
+	height: 40px;
+	border: 1px solid #666;
+	margin: 10px;
+}
+#menu ul {
+	overflow: auto;
+	margin: 10px;
+}
+#menu li {
+	text-align: center;
+	display: inline;
+	margin: 10px 30px 10px 30px;
+}
+#columnaizq{
+	width: 200px;
+	border: 1px solid #666;
+	margin: 0 10px;
+	float: left;
+}
+#columnader{
+	width: 606px;
+	border: 1px solid #666;
+	margin: 0 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+#pie{
+	clear: both;
+	margin: 10px;
+	border: 1px solid #666;
+}
